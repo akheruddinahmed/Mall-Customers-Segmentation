@@ -94,7 +94,7 @@ You can view the project presentation in the `Presentation.pptx` file included i
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/customer-segmentation-kmeans.git
+   git clone https://github.com/akheruddinahmed/Mall-Customers-Segmentation.git
    cd customer-segmentation-kmeans
    ```
 
